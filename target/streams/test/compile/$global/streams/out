@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/home/kaiocesarsp/Projects/Estudos/folhadepagamentoscala/src/test/scala/CubeCalculatorTest.scala:3:32: illegal start of simple expression[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(CubeCalculator.cube(@) === 8)[0m
+[0m[[0m[31merror[0m] [0m[0m                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kaiocesarsp/Projects/Estudos/folhadepagamentoscala/src/test/scala/CubeCalculatorTest.scala:4:3: ')' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m  }[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
