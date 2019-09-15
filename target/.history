@@ -1,1 +1,2 @@
 sbt test
+def calcular_inss(salario_bruto: Float) = { salario_bruto + 100 }
