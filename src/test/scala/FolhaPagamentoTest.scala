@@ -1,7 +1,7 @@
 class FolhaPagamentoTest extends org.scalatest.FunSuite {
 
   test("calcular inss") {
-    assert(FolhaPagamento.calcular_inss(3000) === 3100)
+    assert(FolhaPagamento.calcular_inss(3000.0) === 330)
   }
 
   test("calcular o fgts") {
