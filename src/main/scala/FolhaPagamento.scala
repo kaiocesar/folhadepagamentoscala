@@ -25,8 +25,8 @@ object FolhaPagamento extends App {
     }
   }
 
-  def calcular_fgts(salario_bruto: Float) : Float = {
-    salario_bruto
+  def calcular_fgts(salario_bruto: Double) : Double = {
+    salario_bruto * 0.08
   }
 
   def calcular_dependentes(salario_bruto: Float) : Float = {

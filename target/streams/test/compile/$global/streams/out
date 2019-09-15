@@ -1,19 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/kaiocesarsp/Projects/Estudos/folhadepagamentoscala/src/test/scala/FolhaPagamentoTest.scala:24:27: value calcular_dsr is not a member of object FolhaPagamento[0m
-[0m[[0m[31merror[0m] [0m[0m    assert(FolhaPagamento.calcular_dsr(2) === 8)[0m
-[0m[[0m[31merror[0m] [0m[0m                          ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/kaiocesarsp/Projects/Estudos/folhadepagamentoscala/src/test/scala/FolhaPagamentoTest.scala:28:27: value calcular_vale_transporte is not a member of object FolhaPagamento[0m
-[0m[[0m[31merror[0m] [0m[0m    assert(FolhaPagamento.calcular_vale_transporte(2) === 8)[0m
-[0m[[0m[31merror[0m] [0m[0m                          ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/kaiocesarsp/Projects/Estudos/folhadepagamentoscala/src/test/scala/FolhaPagamentoTest.scala:32:27: value calcular_vale_alimentacao is not a member of object FolhaPagamento[0m
-[0m[[0m[31merror[0m] [0m[0m    assert(FolhaPagamento.calcular_vale_alimentacao(2) === 8)[0m
-[0m[[0m[31merror[0m] [0m[0m                          ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/kaiocesarsp/Projects/Estudos/folhadepagamentoscala/src/test/scala/FolhaPagamentoTest.scala:36:27: value calcular_adicional_noturno is not a member of object FolhaPagamento[0m
-[0m[[0m[31merror[0m] [0m[0m    assert(FolhaPagamento.calcular_adicional_noturno(2) === 8)[0m
-[0m[[0m[31merror[0m] [0m[0m                          ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/kaiocesarsp/Projects/Estudos/folhadepagamentoscala/src/test/scala/FolhaPagamentoTest.scala:40:27: value calcular_adicional_insalubridade is not a member of object FolhaPagamento[0m
-[0m[[0m[31merror[0m] [0m[0m    assert(FolhaPagamento.calcular_adicional_insalubridade(2) === 8)[0m
-[0m[[0m[31merror[0m] [0m[0m                          ^[0m
-[0m[[0m[31merror[0m] [0m[0m/home/kaiocesarsp/Projects/Estudos/folhadepagamentoscala/src/test/scala/FolhaPagamentoTest.scala:44:27: value calcular_salario_liquido is not a member of object FolhaPagamento[0m
-[0m[[0m[31merror[0m] [0m[0m    assert(FolhaPagamento.calcular_salario_liquido(2) === 8)[0m
-[0m[[0m[31merror[0m] [0m[0m                          ^[0m
-[0m[[0m[31merror[0m] [0m[0m6 errors found[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kaiocesarsp/Projects/Estudos/folhadepagamentoscala/src/test/scala/FolhaPagamentoTest.scala:3:3: not found: value describe[0m
+[0m[[0m[31merror[0m] [0m[0m  describe("Calculo do INSS") {[0m
+[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
