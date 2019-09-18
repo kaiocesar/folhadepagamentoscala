@@ -1,8 +1,7 @@
 [0m[[0m[0minfo[0m] [0m[0m[32mFolhaPagamentoTest:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- calcular inss[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- calcular o fgts[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- calcular dependentes *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  2.0 did not equal 8 (FolhaPagamentoTest.scala:12)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calcular dependentes[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m- calcular o IRRF *** FAILED ***[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m  2.0 did not equal 8 (FolhaPagamentoTest.scala:16)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m- calcular as horas extras *** FAILED ***[0m[0m

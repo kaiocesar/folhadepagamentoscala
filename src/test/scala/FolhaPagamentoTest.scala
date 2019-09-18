@@ -9,7 +9,7 @@ class FolhaPagamentoTest extends org.scalatest.FunSuite {
   }
 
   test("calcular dependentes") {
-    assert(FolhaPagamento.calcular_dependentes(2) === 8)
+    assert(FolhaPagamento.calcular_dependentes(2) === 379.18)
   }
 
   test("calcular o IRRF") {

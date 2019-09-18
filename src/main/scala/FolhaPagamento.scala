@@ -29,8 +29,8 @@ object FolhaPagamento extends App {
     salario_bruto * 0.08
   }
 
-  def calcular_dependentes(salario_bruto: Float) : Float = {
-    salario_bruto
+  def calcular_dependentes(quantidade_dependentes: Integer) : Double = {
+    quantidade_dependentes * 189.59
   }
 
   def calcular_irrf(salario_bruto: Float) : Float = {
