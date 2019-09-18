@@ -9,8 +9,7 @@
 [0m[[0m[0minfo[0m] [0m[0m[31m  2.0 did not equal 8 (FolhaPagamentoTest.scala:20)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m- calcular DSR (descanso semanal remunerado sobre horas extras) *** FAILED ***[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m  2.0 did not equal 8 (FolhaPagamentoTest.scala:24)[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m- calcular vale transporte *** FAILED ***[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[31m  2.0 did not equal 8 (FolhaPagamentoTest.scala:28)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- calcular vale transporte[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m- calcular o vale alimentação *** FAILED ***[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m  2.0 did not equal 8 (FolhaPagamentoTest.scala:32)[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[31m- adicional noturno *** FAILED ***[0m[0m

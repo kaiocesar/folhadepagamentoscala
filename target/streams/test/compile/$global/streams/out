@@ -1,4 +1,6 @@
-[0m[[0m[31merror[0m] [0m[0m/home/kaiocesarsp/Projects/Estudos/folhadepagamentoscala/src/test/scala/FolhaPagamentoTest.scala:3:3: not found: value describe[0m
-[0m[[0m[31merror[0m] [0m[0m  describe("Calculo do INSS") {[0m
-[0m[[0m[31merror[0m] [0m[0m  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kaiocesarsp/Projects/Estudos/folhadepagamentoscala/src/test/scala/FolhaPagamentoTest.scala:28:58: type mismatch;[0m
+[0m[[0m[31merror[0m] [0m[0m found   : Double(228.8)[0m
+[0m[[0m[31merror[0m] [0m[0m required: Float[0m
+[0m[[0m[31merror[0m] [0m[0m    assert(FolhaPagamento.calcular_vale_transporte(3000, 228.80) === 8)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                         ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -25,7 +25,7 @@ class FolhaPagamentoTest extends org.scalatest.FunSuite {
   }
 
   test("calcular vale transporte") {
-    assert(FolhaPagamento.calcular_vale_transporte(2) === 8)
+    assert(FolhaPagamento.calcular_vale_transporte(3000, 228.80) === Map("vale_transporte" -> 228.8, "aux_transporte" -> 48.80000000000001))
   }
 
   test("calcular o vale alimentação") {

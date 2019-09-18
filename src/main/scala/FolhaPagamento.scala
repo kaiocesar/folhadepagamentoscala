@@ -45,8 +45,14 @@ object FolhaPagamento extends App {
     salario_bruto
   }
 
-  def calcular_vale_transporte(salario_bruto: Float) : Float = {
-    salario_bruto
+  def calcular_vale_transporte(salario_bruto: Double, vt_necessario: Double) = {
+    
+    val vt_base = salario_bruto * 0.06
+    if (vt_base < vt_necessario) {
+      Map("vale_transporte" -> vt_necessario, "aux_transporte" -> (vt_necessario - vt_base))
+    } else {
+      Map("vale_transporte" -> vt_necessario, "aux_transporte" -> 0)  
+    }
   }
 
   def calcular_vale_alimentacao(salario_bruto: Float) : Float = {

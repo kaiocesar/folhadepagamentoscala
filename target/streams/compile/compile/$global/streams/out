@@ -1,6 +1,4 @@
-[0m[[0m[31merror[0m] [0m[0m/home/kaiocesarsp/Projects/Estudos/folhadepagamentoscala/src/main/scala/FolhaPagamento.scala:29:19: type mismatch;[0m
-[0m[[0m[31merror[0m] [0m[0m found   : Double[0m
-[0m[[0m[31merror[0m] [0m[0m required: Float[0m
-[0m[[0m[31merror[0m] [0m[0m    salario_bruto * 0.08[0m
-[0m[[0m[31merror[0m] [0m[0m                  ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/kaiocesarsp/Projects/Estudos/folhadepagamentoscala/src/main/scala/FolhaPagamento.scala:52:81: value - is not a member of (String, Double)[0m
+[0m[[0m[31merror[0m] [0m[0m      Map("vale_transporte" -> vt_necessario, "aux_transporte" -> vt_necessario - vt_base)[0m
+[0m[[0m[31merror[0m] [0m[0m                                                                                ^[0m
 [0m[[0m[31merror[0m] [0m[0mone error found[0m
