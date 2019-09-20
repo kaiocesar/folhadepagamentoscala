@@ -29,7 +29,7 @@ class FolhaPagamentoTest extends org.scalatest.FunSuite {
   }
 
   test("calcular o vale alimentação") {
-    assert(FolhaPagamento.calcular_vale_alimentacao(2) === 8)
+    assert(FolhaPagamento.calcular_vale_alimentacao(3000) === 600)
   }
 
   test("adicional noturno") {
