@@ -55,8 +55,8 @@ object FolhaPagamento extends App {
     }
   }
 
-  def calcular_vale_alimentacao(salario_bruto: Float) : Float = {
-    salario_bruto
+  def calcular_vale_alimentacao(salario_bruto: Double) : Double = {
+    salario_bruto * 0.20
   }
 
   def calcular_adicional_noturno(salario_bruto: Float) : Float = {
